@@ -2,10 +2,6 @@
 1. [General](#general)
 2. [Weapon/Aspect specific](#aspect)
 
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
 ## General<a name="general"/>
 #### Updated basics guide for the Any Heat category by SS5D
 
