@@ -7,6 +7,7 @@
     4. [Bow](#bow)
     5. [Fists](#fists)
     6. [Rail](#rail)
+3. [Game Mechanics](#mechanics)
 
 ## General<a name="general"/>
 #### Updated basics guide for the Any Heat category by SS5D
@@ -34,5 +35,11 @@ https://discord.com/channels/523766637212598276/523766792963751936/9284363779835
 
 ### Rail<a name="rail"/>
 #### [Eris Rail by Lili](https://www.hades-guides.ovh/index.php/eris-rail-guide/)
-
 #### [Hestia Rail by Zyruvias](https://docs.google.com/document/d/1019DSLlyHwg7_oIiN3Il-NUYdHEbl783G7ZvstFSCD4/edit?usp=sharing)
+
+## Game Mechanics<a name="mechanics"/>
+
+#### [Enemy HP, Armour, and Difficulty values (used to determine spawn #s)](https://docs.google.com/spreadsheets/d/1M8uSUx4vW6TZHHb8z7SbGL4uWxcME7aB3LAIikfpmoM)
+
+#### [Hades - Room Generation (Biome Depth)](https://docs.google.com/document/d/e/2PACX-1vSl9RGGyPbNqCnTLymtrjMTgj7GHwE5RFgKflncW_IXkALnzzzawtNdne5hhMDPM7SNN9I9Nhi-s2YK/pub)
+Detailed information on which rooms can be offered at variable depths in a biome, and a primer on how room generation + room forcing for midshops/midbosses works.
