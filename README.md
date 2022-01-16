@@ -24,6 +24,8 @@
 [Sword by trash_lapras](https://docs.google.com/document/d/1GvdbSS3DrM0LHzZWWmWHt15Z87LFNUf-xUmH1_BMLps/edit?usp=sharing)
 
 ### Spear<a name="spear"/>
+[Spear by trash_lapras](https://docs.google.com/document/d/1W2XyhC7JB1eZNtvHk0NrHl0F2vbN7om9BdNknkUUX34/edit)
+
 [Achilles Spear by 185](https://docs.google.com/document/d/1eAOEli9KqJOVyPD7U-6D1o1yZx1tDMQWLDcMJr8G84E/edit)
 
 ### Shield<a name="shield"/>
