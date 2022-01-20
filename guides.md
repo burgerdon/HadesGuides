@@ -1,4 +1,4 @@
-# Hades Speedrunning Guides Repository
+# Hades Speedrunning Guides Compendium
 1. [General](#general)
 2. [Weapon/Aspect specific](#aspect)
     1. [Sword](#sword)
