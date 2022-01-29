@@ -59,8 +59,11 @@ Be sure to check the pinned posts in the #fresh-file channel for more info.
 
 ## Routed<a name="routed"/>
 Be sure to check the pinned posts in the #routed-runs channel for more info.
+
 [Introduction to routed runs](https://www.speedrun.com/hades/guide/jxpkj)
+
 [Routed Speedrunning Basics - How to Run a Route](https://www.youtube.com/watch?v=AHdt35TDvNY) - video form
+
 [Overexplained Routed Speedrun](https://www.youtube.com/watch?v=CBRTQkoOZ4k) - real time overxplained of a routed run
 
 ## Game Mechanics<a name="mechanics"/>
