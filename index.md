@@ -12,7 +12,7 @@
 5. [Multi Weapon](#multi)
 6. [Routed](#routed)
 7. [Game Mechanics](#mechanics)
-8. [Perpipherals](#peripherals)
+8. [Peripherals](#peripherals)
 
 ## General<a name="general"/>
 [Updated basics guide for the Any Heat category by SS5D](https://docs.google.com/document/d/16aaLsNytmQFv9JCJN4huTzGqQAREDGezD_fkQe5b4Ms/edit)
