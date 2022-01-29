@@ -14,7 +14,7 @@
 7. [Peripherals](#peripherals)
 
 ## General<a name="general"/>
-[Updated basics guide for the Any Heat category by SS5D](https://docs.google.com/document/d/16aaLsNytmQFv9JCJN4huTzGqQAREDGezD_fkQe5b4Ms/edit)
+[Updated basics guide for the Any Heat category](https://docs.google.com/document/d/16aaLsNytmQFv9JCJN4huTzGqQAREDGezD_fkQe5b4Ms/edit)
 
 [Chamber guide](https://discord.com/channels/523766637212598276/523766792963751936/928436377983545354) - guide going over how to manipulate spawns in combat by BIGP
 
@@ -54,6 +54,10 @@ Be sure to check the pinned posts in the #fresh-file channel for more info.
 [Hades - Fresh File: First Run 101](https://www.youtube.com/watch?v=cXTIPUfkGR0)
 
 [Fresh File Tips playlist](https://www.youtube.com/watch?v=wdWhRwt_Xz4&list=PLOfMZlvgJQzo6WFjC2SgbeyXsY7wwPEC9)
+
+[Fresh File In-Depth Guide | Bow](https://www.speedrun.com/hades/guide/ha5fo)
+
+[Fresh File In-Depth Guide | Sword (Not First Run)](https://www.speedrun.com/hades/guide/0oado)
 
 [Fresh File to Credits: non-First Run Route](https://docs.google.com/document/d/1IhDH49Oez8_-fqI7wtZj-TIRjSdmgq_ZcABNJjW_EJs/edit?usp=sharing)
 
