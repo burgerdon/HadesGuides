@@ -9,10 +9,9 @@
     6. [Rail](#rail)
 3. [High Heat](#heat)
 4. [Fresh File](#ff)
-5. [Multi Weapon](#multi)
-6. [Routed](#routed)
-7. [Game Mechanics](#mechanics)
-8. [Peripherals](#peripherals)
+5. [Routed](#routed)
+6. [Game Mechanics](#mechanics)
+7. [Peripherals](#peripherals)
 
 ## General<a name="general"/>
 [Updated basics guide for the Any Heat category by SS5D](https://docs.google.com/document/d/16aaLsNytmQFv9JCJN4huTzGqQAREDGezD_fkQe5b4Ms/edit)
@@ -57,11 +56,6 @@ Be sure to check the pinned posts in the #fresh-file channel for more info.
 [Fresh File Tips playlist](https://www.youtube.com/watch?v=wdWhRwt_Xz4&list=PLOfMZlvgJQzo6WFjC2SgbeyXsY7wwPEC9)
 
 [Fresh File to Credits: non-First Run Route](https://docs.google.com/document/d/1IhDH49Oez8_-fqI7wtZj-TIRjSdmgq_ZcABNJjW_EJs/edit?usp=sharing)
-
-## Multi Weapon<a name="Multi"/>
-Be sure to check the pinned posts in the #multi-weapon channel for more info.
-
-#TODO what do I put here...
 
 ## Routed<a name="routed"/>
 Be sure to check the pinned posts in the #routed-runs channel for more info.
