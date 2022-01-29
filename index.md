@@ -23,7 +23,7 @@
 
 ## Weapon/Aspect specific<a name="aspect"/>
 ### Sword<a name="sword"/>
-[Sword](https://docs.google.com/document/d/1GvdbSS3DrM0LHzZWWmWHt15Z87LFNUf-xUmH1_BMLps/edit?usp=sharing)
+[Sword](https://docs.google.com/document/d/1GvdbSS3DrM0LHzZWWmWHt15Z87LFNUf-xUmH1_BMLps/edit?usp=sharing) - Sword weapon overview by trash_lapras
 
 ### Spear<a name="spear"/>
 [Spear](https://docs.google.com/document/d/1W2XyhC7JB1eZNtvHk0NrHl0F2vbN7om9BdNknkUUX34/edit) - Spear weapon overview by trash_lapras
