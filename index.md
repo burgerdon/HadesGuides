@@ -16,7 +16,7 @@
 ## General<a name="general"/>
 [Updated basics guide for the Any Heat category](https://docs.google.com/document/d/16aaLsNytmQFv9JCJN4huTzGqQAREDGezD_fkQe5b4Ms/edit)
 
-[Chamber guide](https://discord.com/channels/523766637212598276/523766792963751936/928436377983545354) - guide going over how to manipulate spawns in combat by BIGP
+[Chamber guide](https://docs.google.com/document/d/e/2PACX-1vR6NaU9v1-raeibkl4jBOxsYyBGfwq6w9g-HvOkzEXFM9RaxKP9TSE1ZioMmR4p-taL-sQjFbcqOe2A/pub) - guide going over how to manipulate spawns in combat by BIGP
 
 [How to Aim and Use Meg](https://www.youtube.com/watch?v=G-Iovk-sbe8)
 
