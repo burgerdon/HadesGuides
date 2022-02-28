@@ -37,7 +37,7 @@
 ### Shield<a name="shield"/>
 [Beowulf Shield](https://docs.google.com/document/d/1H7EOP28oyu6t8KrBEfnrN-dQc6H_ssvAyYz3C1O2JOI/edit) - Aspect of Beowulf overview by Papertronics
 
-[Beowulf Shield: Explained]https://www.youtube.com/watch?v=-LI1QIsV7bg) - Video format, Aspect of Beowulf overview followed by a narrated demonstration run by duunk0
+[Beowulf Shield: Explained](https://www.youtube.com/watch?v=-LI1QIsV7bg) - Video format, Aspect of Beowulf overview followed by a narrated demonstration run by duunk0
 
 [Zeus Shield: Explained](https://www.youtube.com/watch?v=NdY7-xPn444) - Video format, Aspect of Zeus overview followed by a narrated demonstration run by duunk0
 
@@ -60,29 +60,28 @@
 ## High Heat<a name="heat"/>
 Be sure to check the pinned posts in the #high-heat channel for more info.
 
-[Extreme Measures 4 guide](https://docs.google.com/document/d/126vagPhjSWQMR1x8O9tJT3neweSTdUUfw2pNVjqX7lU/edit#)
+[Extreme Measures 4 guide](https://docs.google.com/document/d/126vagPhjSWQMR1x8O9tJT3neweSTdUUfw2pNVjqX7lU/edit#) - detailed guide by NephiOH 
 
 ## Fresh File<a name="ff"/>
 Be sure to check the pinned posts in the #fresh-file channel for more info.
 
-[Hades - Fresh File: First Run 101](https://www.youtube.com/watch?v=cXTIPUfkGR0)
+[Hades - Fresh File: First Run 101](https://www.youtube.com/watch?v=cXTIPUfkGR0) - video format by Pryde
 
-[Fresh File Tips playlist](https://www.youtube.com/watch?v=wdWhRwt_Xz4&list=PLOfMZlvgJQzo6WFjC2SgbeyXsY7wwPEC9)
+[Fresh File Tips playlist](https://www.youtube.com/watch?v=wdWhRwt_Xz4&list=PLOfMZlvgJQzo6WFjC2SgbeyXsY7wwPEC9) - YouTube playlist by Vorime
 
-[Fresh File In-Depth Guide | Bow](https://www.speedrun.com/hades/guide/ha5fo)
+[Fresh File In-Depth Guide | Bow](https://www.speedrun.com/hades/guide/ha5fo) - Fresh File bow guide by Museus
 
-[Fresh File In-Depth Guide | Sword (Not First Run)](https://www.speedrun.com/hades/guide/0oado)
+[Fresh File In-Depth Guide | Sword (Not First Run)](https://www.speedrun.com/hades/guide/0oado) - non-first run Fresh File Sword guide by Museus
 
-[Fresh File to Credits: non-First Run Route](https://docs.google.com/document/d/1IhDH49Oez8_-fqI7wtZj-TIRjSdmgq_ZcABNJjW_EJs/edit?usp=sharing)
 
 ## Routed<a name="routed"/>
 Be sure to check the pinned posts in the #routed-runs channel for more info.
 
-[Introduction to routed runs](https://www.speedrun.com/hades/guide/jxpkj)
+[Introduction to routed runs](https://www.speedrun.com/hades/guide/jxpkj) - overview by Museus and SatanIsAChillGuy
 
-[Routed Speedrunning Basics - How to Run a Route](https://www.youtube.com/watch?v=AHdt35TDvNY) - video form
+[Routed Speedrunning Basics - How to Run a Route](https://www.youtube.com/watch?v=AHdt35TDvNY) - video form by cgull
 
-[Overexplained Routed Speedrun](https://www.youtube.com/watch?v=CBRTQkoOZ4k) - real time overxplained of a routed run
+[Overexplained Routed Speedrun](https://www.youtube.com/watch?v=CBRTQkoOZ4k) - real time overxplained of a routed run by cgull
 
 ## Game Mechanics<a name="mechanics"/>
 
