@@ -25,16 +25,28 @@
 ### Sword<a name="sword"/>
 [Sword](https://docs.google.com/document/d/1GvdbSS3DrM0LHzZWWmWHt15Z87LFNUf-xUmH1_BMLps/edit?usp=sharing) - Sword weapon overview by trash_lapras
 
+[Zagreus Sword](https://www.youtube.com/watch?v=MJh38lkaq8c) - video format, Aspect of Zagreus overview by duunk0
+
 ### Spear<a name="spear"/>
 [Spear](https://docs.google.com/document/d/1W2XyhC7JB1eZNtvHk0NrHl0F2vbN7om9BdNknkUUX34/edit) - Spear weapon overview by trash_lapras
 
 [Achilles Spear](https://docs.google.com/document/d/1eAOEli9KqJOVyPD7U-6D1o1yZx1tDMQWLDcMJr8G84E/edit) - Aspect of Achilles overview by 185
 
+[Achilles Spear: explained](https://www.youtube.com/watch?v=Vg6gYNtzdng) - Video format, Aspect of Achilles overview followed by a narrated demonstration run by duunk0
+
 ### Shield<a name="shield"/>
 [Beowulf Shield](https://docs.google.com/document/d/1H7EOP28oyu6t8KrBEfnrN-dQc6H_ssvAyYz3C1O2JOI/edit) - Aspect of Beowulf overview by Papertronics
 
+[Beowulf Shield: Explained]https://www.youtube.com/watch?v=-LI1QIsV7bg) - Video format, Aspect of Beowulf overview followed by a narrated demonstration run by duunk0
+
+[Zeus Shield: Explained](https://www.youtube.com/watch?v=NdY7-xPn444) - Video format, Aspect of Zeus overview followed by a narrated demonstration run by duunk0
+
 ### Bow<a name="bow"/>
 [Hera Bow](https://docs.google.com/document/d/1IHgXN-_iYn3G2BWUJ05GSi0Qm4j4FsE0yPNM3stKpOE/edit) - Aspect of Hera overview by Croven and cgull
+
+[Hera Bow: Explained](https://www.youtube.com/watch?v=6jMBdPF86nQ) - Video format, Aspect of Hera overview followed by a narrated demonstration run by duunk0
+
+[Rama Bow: Explained](https://www.youtube.com/watch?v=xgYNG1JM-_s) - Video format, Aspect of Rama overview followed by a narrated demonstration run by duunk0
 
 ### Fists<a name="fists"/>
 
@@ -42,6 +54,8 @@
 [Eris Rail](https://www.hades-guides.ovh/index.php/eris-rail-guide/) - Aspect of Eris overview by Lili
 
 [Hestia Rail](https://docs.google.com/document/d/1019DSLlyHwg7_oIiN3Il-NUYdHEbl783G7ZvstFSCD4/edit?usp=sharing) - Aspect of Hestia overview by Zyruvias
+
+[Hestia Rail: Explained](https://www.youtube.com/watch?v=Ie5e_6fIFms) - Video format, Aspect of Hestia overview followed by a narrated demonstration run by duunk0
 
 ## High Heat<a name="heat"/>
 Be sure to check the pinned posts in the #high-heat channel for more info.
